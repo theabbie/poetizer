@@ -1,0 +1,27 @@
+{
+  "name": "poetizer",
+  "version": "1.0.0",
+  "description": "Unofficial Poetizer API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'working'"
+  },
+  "funding": "https://theabbie.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/poetizer.git"
+  },
+  "keywords": [
+    "poetizer",
+    "theabbie"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/poetizer/issues"
+  },
+  "homepage": "https://github.com/theabbie/poetizer#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
